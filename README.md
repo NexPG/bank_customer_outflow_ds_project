@@ -72,7 +72,7 @@
 ---
 
 ## Технологический стек
-- **Язык программирования**: Python 3.9+
+- **Язык программирования**: Python 3
 - **ML библиотеки**: scikit-learn, XGBoost, LightGBM, CatBoost
 - **Data Science**: pandas, numpy, matplotlib, seaborn, plotly
 - **Feature Engineering**: Feature-engine, category_encoders
