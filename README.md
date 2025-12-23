@@ -61,13 +61,16 @@
 - **Разведочный анализ**
 - **Feature engineering**
 - **Baseline**
+- *Logistic Regression*
 - **Классические модели**
 - *Polynomial Logistic Regression*
-- *Random Forest*
 - **Ансамблевые методы**
+- *Random Forest*
 - *Boosting*
 - *Cascade Ensemble*
 - **Neural Network**
+- *MLP*
+- **Best model**
 
 ---
 
